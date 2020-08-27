@@ -2,5 +2,5 @@
 
 ls
 pwd
-cd /
-#find .
+cd / # Just to go to root Dir
+#find . 
